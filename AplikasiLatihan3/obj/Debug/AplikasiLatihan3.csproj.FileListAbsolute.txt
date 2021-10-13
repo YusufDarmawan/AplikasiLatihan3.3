@@ -1,0 +1,10 @@
+E:\visual studio\AplikasiLatihan3\AplikasiLatihan3\bin\Debug\AplikasiLatihan3.exe.config
+E:\visual studio\AplikasiLatihan3\AplikasiLatihan3\bin\Debug\AplikasiLatihan3.exe
+E:\visual studio\AplikasiLatihan3\AplikasiLatihan3\bin\Debug\AplikasiLatihan3.pdb
+E:\visual studio\AplikasiLatihan3\AplikasiLatihan3\obj\Debug\AplikasiLatihan3.csproj.AssemblyReference.cache
+E:\visual studio\AplikasiLatihan3\AplikasiLatihan3\obj\Debug\AplikasiLatihan3.Properties.Resources.resources
+E:\visual studio\AplikasiLatihan3\AplikasiLatihan3\obj\Debug\AplikasiLatihan3.csproj.GenerateResource.cache
+E:\visual studio\AplikasiLatihan3\AplikasiLatihan3\obj\Debug\AplikasiLatihan3.csproj.CoreCompileInputs.cache
+E:\visual studio\AplikasiLatihan3\AplikasiLatihan3\obj\Debug\AplikasiLatihan3.exe
+E:\visual studio\AplikasiLatihan3\AplikasiLatihan3\obj\Debug\AplikasiLatihan3.pdb
+E:\visual studio\AplikasiLatihan3\AplikasiLatihan3\obj\Debug\AplikasiLatihan3.frmLatihan33.resources
